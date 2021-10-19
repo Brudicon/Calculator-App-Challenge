@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "Calculator_Challenge",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
